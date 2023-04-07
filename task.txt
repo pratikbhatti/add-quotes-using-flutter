@@ -1,0 +1,1 @@
+Amazing Quotes using flutter with getx with database
